@@ -1,0 +1,40 @@
+body{
+  background-color: #36384d;
+  display: flex;
+}
+.container1{
+  background-color: aliceblue;
+  padding: 20px;
+  width: 350px;
+}
+.container2{
+  border: 1px solid hsl(0, 0%,58%);
+  border-radius: 15px;
+  padding: 10px;
+  height: 40px;
+  width: 300px;
+  display: flex;
+  color: hsl(0, 0%,58%);
+}
+.containerall{
+  display: flex;
+  background-color: aliceblue;
+  padding: 30px;
+  border-radius: 30px;
+}
+h3{
+  font-weight: bolder;
+  font-size: 15px;
+}
+button{
+  width: 320px;
+  height: 50px;
+  border: none;
+  border-radius: 15px;
+  background-color: hsl(234, 29%, 20%);
+  color: white;
+}
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+}
